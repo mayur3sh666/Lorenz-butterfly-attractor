@@ -5,6 +5,6 @@ It demonstrates nonlinear dynamics, chaos theory, sensitivity to initial conditi
 
 📌 What Is the Lorenz System?
 The Lorenz system is a set of three coupled nonlinear differential equations:
-x˙=σy-x
-y˙=x(ρ-z)-y
-z˙=xy-βz
+                      x˙=σy-x
+                      y˙=x(ρ-z)-y
+                      z˙=xy-βz
